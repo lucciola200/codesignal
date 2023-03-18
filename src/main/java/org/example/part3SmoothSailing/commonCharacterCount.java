@@ -1,4 +1,4 @@
-package org.example.part2EdgeOfTheOcean;
+package org.example.part3SmoothSailing;
 
 import java.util.HashMap;
 import java.util.Map;
